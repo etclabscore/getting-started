@@ -1,0 +1,20 @@
+{
+  "name": "simple-math-test",
+  "version": "0.0.0-simple-math-test",
+  "scripts": {
+    "build": "tsc && webpack && zip -j testService.zip ../build/dist/index.js && npm run generate-config",
+    "generate-config": "node ./build/lab5/generate_config.js > extended_config.json"
+  },
+  "dependencies": {
+    "@etclabscore/jade-service-runner": "^1.4.10",
+    "@etclabscore/jade-service-runner-client": "^1.4.10",
+    "@open-rpc/server-js": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/connect": "^3.4.32",
+    "@types/cors": "^2.8.6",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}

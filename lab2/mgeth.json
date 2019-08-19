@@ -1,0 +1,36 @@
+{
+  "config": {
+    "networkId": 978,
+    "chainId": 676,
+    "homesteadBlock": 0,
+    "eip7FBlock": null,
+    "eip150Block": 0,
+    "eip150Hash": "0x5ab4c85f58bf99e8562745cfd8900bd8b41dcbf46879aa90421152021f5d9420",
+    "eip155Block": 0,
+    "eip158Block": 100,
+    "byzantiumBlock": 100,
+    "disposalBlock": 0,
+    "constantinopleBlock": null,
+    "ECIP1017EraRounds": 2000000,
+    "eip160FBlock": 0,
+    "ecip1010PauseBlock": 0,
+    "ecip1010Length": 2000000,
+    "ethash": {},
+    "trustedCheckpoint": null
+  },
+  "nonce": "0x0000000000000539",
+  "timestamp": "0x42",
+  "extraData": "0xdeadbeefcafe1337",
+  "gasLimit": "0x2fefd8",
+  "difficulty": "0x010000",
+  "mixHash": "0x00000000000000000000000000000000000000647572616c65787365646c6578",
+  "coinbase": "0x0000000000000000000000000000000000000000",
+  "alloc": {
+    "0x0aad1992a78d0c8a5b20d195e42a993bd954e4d9": {
+      "balance": "1606938044258990275541962092341162602522202993782792835301376"
+    }
+  },
+  "number": "0x0",
+  "gasUsed": "0x0",
+  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+}
