@@ -32,6 +32,9 @@ Run the new service with service runner
 For more resources
 
 *Resources*
+ 
  https://github.com/etclabscore/jade-service-runner-ui
+ 
  https://open-rpc.org
+ 
  https://jade.builders
